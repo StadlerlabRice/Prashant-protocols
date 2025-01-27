@@ -17,7 +17,7 @@ Another protocol: Openwetware
 
 > From <[https://openwetware.org/wiki/Preparing_chemically_competent_cells](https://openwetware.org/wiki/Preparing_chemically_competent_cells)>  
 
-![[Chemical transformation (TSS method) - Bennett Lab Wiki.pdf]]
+![Chemical transformation (TSS method) - Bennett Lab Wiki](Chemical%20transformation%20(TSS%20method)%20-%20Bennett%20Lab%20Wiki.pdf)
 
 Detailed protocol from Shyam : Google drive PDF
 
