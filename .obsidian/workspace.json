@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "a641424b380e6122",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa1b2ced1b34fd75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "256cf68551f7f74e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stadler-lab_Prashant/Protocols/Culturing in blocks has lot more cell density than tubes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Culturing in blocks has lot more cell density than tubes"
+            }
+          },
+          {
+            "id": "7b106838a5cf2a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "onenote-conversion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "onenote-conversion"
+            }
+          },
+          {
+            "id": "6c9902b4d60ac9a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stadler-lab_Prashant/Stadler-lab_Prashant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stadler-lab_Prashant"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "031b5fd05efb9ca1",
+    "type": "split",
+    "children": [
+      {
+        "id": "06f9eaef9b99c4fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3009dabf92eb864f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "94a64ac0556615c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fde9f45f45059fdd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9ae35da5ad7342c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aa2ed531e6f616c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5909246099d7f578",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stadler-lab_Prashant/Stadler-lab_Prashant.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Stadler-lab_Prashant"
+            }
+          },
+          {
+            "id": "4462ff04fb4ac448",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d18a93dde7f15e4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a263a7c1ccccf5fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Stadler-lab_Prashant/Stadler-lab_Prashant.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Stadler-lab_Prashant"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "6c9902b4d60ac9a8",
+  "lastOpenFiles": [
+    "LICENSE-CC-BY-NC-SA.txt",
+    "Stadler-lab_Prashant/Protocols/Competent cells/ transformation/Pseudomonas electrocompetent-frozen.md",
+    "Stadler-lab_Prashant/Protocols/Competent cells/ transformation/Zymo - mix and go.md",
+    "Stadler-lab_Prashant/Protocols/Competent cells/ transformation/Heat shock Vmax  Room temp (like Hanahan).md",
+    "Stadler-lab_Prashant/Protocols/Competent cells/ transformation/Heat shock Vmax  cold, like CCMB80Inoue.md",
+    "Stadler-lab_Prashant/Protocols/Competent cells/ transformation/Electrocomp (V. natriegensVmax).md",
+    "Stadler-lab_Prashant/Protocols/Competent cells/ transformation/E. coli TSS competent.md",
+    "Stadler-lab_Prashant/Protocols/Competent cells/ transformation/E. coli Electrocompetent.md",
+    "Stadler-lab_Prashant/Protocols/Competent cells/ transformation/E. coli ccmb80.md",
+    "Stadler-lab_Prashant/Protocols/Competent cells/ transformation/Competent cells  transformation.md",
+    "Stadler-lab_Prashant/Protocols/Competent cells/ transformation",
+    "Stadler-lab_Prashant/Protocols/Competent cells",
+    "table_of_contents.md",
+    "Stadler-lab_Prashant/Protocols/Culturing in blocks has lot more cell density than tubes.md",
+    "Stadler-lab_Prashant/Stadler-lab_Prashant.md",
+    "attachments/Exported image 20250102022151-0.png",
+    "attachments/Exported image 20250102022143-0.png",
+    "attachments/Exported image 20250102022153-1.png",
+    "attachments/Exported image 20250102022140-0.png",
+    "attachments/Exported image 20250102022204-2.png",
+    "Stadler-lab_Prashant/Protocols/Column purification (Zymo)/Exo-CIP rapid enzymatic cleanup kit.md",
+    "onenote-conversion.md",
+    "Stadler-lab_Prashant/Protocols/RNA extraction Maxwell/magnetic/DNAse treatment of RNA extracts.md",
+    "Stadler-lab_Prashant/Protocols/Electrocomp (V. natriegens/Vmax)/Vmax electrocomp tabular.md",
+    "Stadler-lab_Prashant/Protocols/Competent cells / transformation/Zymo - mix and go.md",
+    "Stadler-lab_Prashant/Protocols/Competent cells / transformation/Pseudomonas electrocompetent-frozen.md",
+    "Stadler-lab_Prashant/Protocols/Competent cells / transformation/Heat shock Vmax  Room temp (like Hanahan).md",
+    "Stadler-lab_Prashant/Protocols/Competent cells / transformation/Heat shock Vmax  cold, like CCMB80Inoue.md",
+    "Stadler-lab_Prashant/Protocols/Competent cells / transformation/Electrocomp (V. natriegensVmax).md",
+    "Stadler-lab_Prashant/Protocols/Competent cells / transformation/E. coli TSS competent.md",
+    "Stadler-lab_Prashant/Protocols/Competent cells / transformation/E. coli Electrocompetent.md",
+    "Stadler-lab_Prashant/Protocols/Competent cells / transformation/E. coli ccmb80.md",
+    "Stadler-lab_Prashant/Protocols/Competent cells / transformation/Competent cells  transformation.md",
+    "Stadler-lab_Prashant/Protocols/RNA extraction Maxwell/magnetic",
+    "Stadler-lab_Prashant/Protocols/Electrocomp (V. natriegens/Vmax)",
+    "Stadler-lab_Prashant/Protocols/Competent cells / transformation",
+    "Stadler-lab_Prashant/Protocols/Vmax (Vibrio natrigens) resources",
+    "Stadler-lab_Prashant/Protocols/Shyam's protocols",
+    "Stadler-lab_Prashant/Protocols/RNA extraction Maxwell",
+    "Stadler-lab_Prashant/Protocols/Qiagen miniprep",
+    "Stadler-lab_Prashant/Protocols/Nanopore sequencing",
+    "attachments/Exported image 20250102022554-1.png",
+    "attachments/Exported image 20250102022537-1.png",
+    "attachments/Exported image 20250102022543-1.png",
+    "attachments/Exported image 20250102022549-0.png",
+    "attachments/Exported image 20250102022331-2.png"
+  ]
+}
