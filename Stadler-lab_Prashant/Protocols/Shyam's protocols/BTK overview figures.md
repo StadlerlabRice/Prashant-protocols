@@ -1,0 +1,2 @@
+![• A part type (1—9) indicates its connectivity order • Connectivity is founded in the designated overhangs The part's intended connectivity to other parts determines the part type it should be made as. (5) Terminator (6) Conne ctor R (l) C onnector L (2) Promoter (3) RBS (4) CDS T€ofi (7) Selection Marker TOofi (8) Transcaption Factor / Custom o (9) Rep. Origin ](Exported%20image%2020250102022231-0.png)  
+![Exported image](Exported%20image%2020250102022233-1.png)

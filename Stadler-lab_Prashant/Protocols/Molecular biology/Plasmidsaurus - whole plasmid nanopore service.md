@@ -1,0 +1,6 @@
+|   |   |
+|---|---|
+|Goal|Sequence the whole plasmid with ~ 700x coverage for 15$|
+|Sample prep|\|   \|   \|   \|<br>\|---\|---\|---\|<br>\|**Plasmid (2.5 - 25 kb)**\|**30 ng/uL**\|**≥10 uL** (account for evaporation)\|<br><br>Send in PCR strips/ PCR tubes w order label (1st tube) ; strip # (2nd tube). Seal well, parafilm<br><br>  <br>> From <[https://www.plasmidsaurus.com/instructions/](https://www.plasmidsaurus.com/instructions/)>  <br><br>- Quantify with Qubit kind of stuff<br>- Avoid EDTA -- elute in EB/ ~IDTE (with low EDTA)<br><br>  <br><br>Samples should ONLY be sent in **transparent, 96-well, PCR strip tubes** (or single PCR tubes if shipping single samples) or **96-well PCR plates**. Other type of tubes (1.5 mL, 0.5 mL, 384-well format, opaque, etc.) are not compatible with our rapid workflow.<br><br>  <br>> From <[https://www.plasmidsaurus.com/confirm/6998209778955778897/](https://www.plasmidsaurus.com/confirm/6998209778955778897/)>|
+|Steps for analysis|1. Look at the size distribution **.png** images - for concatemers with 2x, 3x, 4x sizes<br>2. Check pLannotate for quick glance<br>3. Align the consensus **.gbk** file to benchling (get annotations for free!) -- make adjustments to get the ends to work<br>4. Download the raw reads and play with it .. Write the mapping/alignment tools here once figured out|
+|||

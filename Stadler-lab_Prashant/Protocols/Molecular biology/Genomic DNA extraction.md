@@ -1,0 +1,2 @@
+Isopropanol/ethanol precipitation - Promega [Wizard](https://www.promega.com/products/nucleic-acid-extraction/genomic-dna/wizard-genomic-dna-purification-kit/?catNum=A1120#protocols) Genomic DNA purification kit  
+Column based method w bead beating - [Mpbio fast spin soil kit](https://www.mpbio.com/media/productattachment/LS082019-EN-FastDNA-SPIN-Kit-for-Soil-116560200-Manual.pdf)

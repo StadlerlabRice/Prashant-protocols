@@ -1,0 +1,2 @@
+Complex media included LB (10 gm/L tryptone, 5 gm/L yeast extract, 5 gm/L sodium chloride), LBmc (LB with 2.5 mM MgSO4 2.5 mM CaCl2), and TY (5 gm/L tryptone, 2.5 gm/L yeast extract, 10 mM CaCl2). For growth of _S. meliloti_, complex media was supplemented with 2 µM CoCl2
+ > From <[https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004742](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004742)>

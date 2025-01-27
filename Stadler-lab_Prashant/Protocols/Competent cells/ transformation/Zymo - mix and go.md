@@ -1,0 +1,4 @@
+|   |   |
+|---|---|
+|Protocol [here](https://files.zymoresearch.com/protocols/_t3001_t3002_mix_go_e._coli_transformation_kit_buffer_set.pdf)|Reagents : [https://www.zymoresearch.com/products/mix-and-go-e-coli-transformation-kit](https://www.zymoresearch.com/products/mix-and-go-e-coli-transformation-kit)|
+|Quick method|- Grow cells till OD: 0.4-0.6 (_low temp better ; lower OD is ok too)_<br>- (all steps on ice) Ice 10 m, centrifuge<br>- Concentrate 10x with wash buffer (make 1x wash buffer)<br>- Pellet again, into same volume competent buffer<br>- Aliquot 100 ul ; can freeze/transform immediately<br>  <br><br>Transform<br><br>- Add plasmid, mix gently and consider transformed (no heat shock needed)|

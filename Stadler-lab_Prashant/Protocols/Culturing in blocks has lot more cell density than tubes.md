@@ -1,0 +1,4 @@
+|                                                        |                                                                                                          |
+| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| Culturing in blocks gives much more cell density       | 3 ml LB30 culture/24 well block vs 1 ml LB 30 culture/96 well block                                      |
+| ![Open photo](Exported%20image%2020250102022151-0.png) | ![Exported image](Exported%20image%2020250102022153-1.png)<br><br>1 ml culture has a decent cell mass :) |

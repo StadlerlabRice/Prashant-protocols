@@ -1,0 +1,10 @@
+![Table 4. Transformation Guidelines for Introducing Plasmid into VmaxTM Express Plasmid Origin of Replication pMB1 colE1 PUC RK2 Plasmid Backbone pBR322 PET vectors pCDNA3.o pGEM5zf pUC19 Selection with Kanamycin pUC19 Selection with all other antibiotics pACYC184 N/A Compatible? Yes Yes Yes Yes Yes Growth Plate Recommendation 370C recommended (300C acceptable) 370C recommended (300C acceptable) Grow plates at 300C only 370C recommended (300C acceptable) 370C recommended (300C acceptable) Incompatible with electroporation. Maybe Can be introduced by conjugation. ](Exported%20image%2020250102022453-0.png) > From <[https://www.biocat.com/bc/pdf/Vmax_Express_40026_100517-Rev1.6.pdf](https://www.biocat.com/bc/pdf/Vmax_Express_40026_100517-Rev1.6.pdf)>     
+
+Plasmid copy number data (by qPCR)
+
+![Plasmid copy number (plasmid/gDna) ](Exported%20image%2020250102022455-1.png)
+
+Figure S3. (a) Standard curves used for calculating absolute copy numbers of plasmid and gDNA targets from V. natriegens and E. coli cultures. Equations from linear regression determinations are presented for each qPCR target, and these were used to determine plasmid copy numbers in cell lysates. (b) Plasmid copy number in E. coli and V. natriegens of the plasmids with the listed origins of replication. Cells collected at stationary phase after growth at 37 °C overnight. (c) Relative plasmid copy numbers (V. natriegens / E. coli) from the data in (b). (d) Relative plasmid copy numbers (V. natriegens / E. coli) from the data in Figure 2b. (e) Relative plasmid copy numbers (V. natriegens / E. coli) from the data in Figure 2c. Hybrid origin is ColE1/pMB1/pBR322/pUC. In (b), samples were run in technical triplicates and error bars represent standard deviation. For the plasmids and primers used in this figure see Tables S2 and S3.
+ > From <[ACS syn bio, supplementary](https://pubs-acs-org.ezproxy.rice.edu/doi/suppl/10.1021/acssynbio.9b00176/suppl_file/sb9b00176_si_001.pdf)>  
+
+Tschirhart, Tanya, et al. "Synthetic biology tools for the fast-growing marine bacterium Vibrio natriegens." _ACS synthetic biology_ 8.9 (2019): 2069-2079.

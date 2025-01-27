@@ -1,0 +1,2 @@
+Media for P. Fluorescens - Kings media/agar  
+[https://www.google.com/url?sa=t&source=web&rct=j&url=http://himedialabs.com/TD/M1544.pdf&ved=2ahUKEwjLpf_ji8jtAhXFuFkKHax7C1EQFjACegQIEhAF&usg=AOvVaw1pg9Hnp4UZlUZEVtDqcnrM](https://www.google.com/url?sa=t&source=web&rct=j&url=http://himedialabs.com/TD/M1544.pdf&ved=2ahUKEwjLpf_ji8jtAhXFuFkKHax7C1EQFjACegQIEhAF&usg=AOvVaw1pg9Hnp4UZlUZEVtDqcnrM)

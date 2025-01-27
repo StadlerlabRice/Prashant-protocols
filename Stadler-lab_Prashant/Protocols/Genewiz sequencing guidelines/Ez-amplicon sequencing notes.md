@@ -1,0 +1,8 @@
+Ez amplicon gives 50 K reads
+
+|   |   |
+|---|---|
+|**Sample preparation**|Purified PCR products 150-500 bp, with or without partial Illumina adapter sequences, at least 500 ng double-stranded DNA total, normalized to a concentration of 20 ng/µL, submitted in microcentrifuge tubes. For optimal results, we recommend submitting samples that produce only one band on a gel.|
+|**partial Illumina adapter sequences**|For the forward sequencing read: 5’-ACACTCTTTCCCTACACGACGCTCTTCCGATCT-3’  <br>For the reverse sequencing read: 5’-GACTGGAGTTCAGACGTGTGCTCTTCCGATCT-3’  <br>Amplicons with the partial adapters should be constructed as follows:<br><br>![Exported image](Exported%20image%2020250102022357-0.png)<br><br>> From <[https://web.genewiz.com/amplicon-ez-faq#Preparation](https://web.genewiz.com/amplicon-ez-faq#Preparation)>|
+|Submission|Submit >25 ul x 20 ng/ul (500 ng min) ; needs to be picked up by Tuesday<br><br>- Note: Samples as low as **3.2 ng total** worked for both me and 3 ng for August ; so don't worry much about the 500 ng critirea<br><br>  <br><br>Note from FAQ :  <br>**When can I submit samples?**  <br>Samples can be submitted at any time; however, they are processed in cycles starting on Wednesdays. Samples must be received by 3 pm ET Wednesday at our NJ facility to be eligible for that week’s cycle. Projects with incomplete information may be placed in the next sequencing cycle. Results are delivered 8 business days after the initial day of processing (on the second Monday).<br><br>  <br>> From <[https://web.genewiz.com/amplicon-ez-faq](https://web.genewiz.com/amplicon-ez-faq)>|
+|Sample naming|Only "-" allowed. Don't use "_"|

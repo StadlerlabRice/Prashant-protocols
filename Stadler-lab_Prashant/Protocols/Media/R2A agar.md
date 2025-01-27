@@ -1,0 +1,9 @@
+|   |   |
+|---|---|
+|[Proteose](https://en.wikipedia.org/wiki/Proteose) [peptone](https://en.wikipedia.org/wiki/Peptone), 0.05%  <br>[Casamino acids](https://en.wikipedia.org/wiki/Casamino_acids), 0.05%  <br>[Yeast extract](https://en.wikipedia.org/wiki/Yeast_extract), 0.05%  <br>[Dextrose](https://en.wikipedia.org/wiki/Dextrose), 0.05%  <br>[Soluble starch](https://en.wikipedia.org/wiki/Starch), 0.05%  <br>[Dipotassium phosphate](https://en.wikipedia.org/wiki/Dipotassium_phosphate), 0.03%  <br>[Magnesium sulfate](https://en.wikipedia.org/wiki/Magnesium_sulfate_heptahydrate), 0.005%  <br>[Sodium pyruvate](https://en.wikipedia.org/wiki/Sodium_pyruvate), 0.03%  <br>[Agar](https://en.wikipedia.org/wiki/Agar), 1.5%||
+|||
+
+Final [pH](https://en.wikipedia.org/wiki/PH) 7 ± 0.2 @ 25 °C
+ > From <[https://en.wikipedia.org/wiki/R2A_agar](https://en.wikipedia.org/wiki/R2A_agar)>   
+**R2A agar** (**Reasoner's 2A agar**) is a [culture medium](https://en.wikipedia.org/wiki/Culture_medium)[[1]](https://en.wikipedia.org/wiki/R2A_agar#cite_note-pmid10528669-1) developed to study [bacteria](https://en.wikipedia.org/wiki/Bacteria) which normally inhabit [potable water](https://en.wikipedia.org/wiki/Potable_water).[[2]](https://en.wikipedia.org/wiki/R2A_agar#cite_note-2) These bacteria tend to be slow-growing species and would quickly be suppressed by faster-growing species on a richer culture medium.  
+Since its development in 1985,[[3]](https://en.wikipedia.org/wiki/R2A_agar#cite_note-pmid42349-3) it has been found to allow the culturing of many other bacteria that will not readily grow on fuller, complex organic media.
